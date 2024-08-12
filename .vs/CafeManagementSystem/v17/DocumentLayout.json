@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Web Development\\Angular\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|e:\\web development\\angular\\cafemanagementsystem\\cafemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\template\\forgetpassword.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\template\\forgetpassword.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\Web Development\\Angular\\CafeManagementSystem\\cafemanagementsystem\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071583A4-A1EA-4665-B61C-4BFB63845853}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Web.config",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Web.config",
+              "RelativeToolTip": "CafeManagementSystem\\Web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-31T10:14:41.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Controllers\\BillController.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\BillController.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Controllers\\BillController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:44:47.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Models\\Bill.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\Bill.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Models\\Bill.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:37:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAwwNIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:45:50.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Controllers\\DashboardController.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:11:12.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ForgetPassword.html",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Template\\ForgetPassword.html",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Template\\ForgetPassword.html",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Template\\ForgetPassword.html",
+              "RelativeToolTip": "CafeManagementSystem\\Template\\ForgetPassword.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-31T12:46:42.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAFoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T12:56:33.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwEUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:31:21.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Models\\User.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Models\\User.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T10:41:46.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Models\\Product.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Models\\Product.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T06:59:28.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Models\\ChangePassword.cs",
+              "ToolTip": "E:\\Web Development\\Angular\\CafeManagementSystem\\CafeManagementSystem\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Models\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:31:44.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
